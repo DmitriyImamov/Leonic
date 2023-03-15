@@ -1,0 +1,60 @@
+@import url(../vendor/normalize.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/container/container.css);
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/__img/logo__img.css);
+@import url(../blocks/nav/nav.css);
+@import url(../blocks/nav/__list/nav__list.css);
+@import url(../blocks/nav/__list-item/nav__item.css);
+@import url(../blocks/nav/__list-link/nav__link.css);
+@import url(../blocks/button/button.css);
+
+@import url(../blocks/section-hero/section-hero.css);
+@import url(../blocks/section-hero/__heading/section-hero__heading.css);
+@import url(../blocks/section-hero/__description/section-hero__description.css);
+@import url(../blocks/section-hero/__ssl-icon/section-hero__ssl-icon.css);
+@import url(../blocks/section-hero/__btn-description/section-hero__btn-desctiption.css);
+
+@import url(../blocks/section-heading/section-heading.css);
+@import url(../blocks/section-description/section-description.css);
+
+@import url(../blocks/section-do/section-do.css);
+@import url(../blocks/section-do/__list/section-do__list.css);
+@import url(../blocks/section-do/__item/section-do__item.css);
+@import url(../blocks/section-do/__icon/section-do__icon.css);
+@import url(../blocks/section-do/__item-heading/section-do__item-heading.css);
+@import url(../blocks/section-do/__item-description/section-do__item-description.css);
+
+@import url(../blocks/section-clients/section-clients.css);
+@import url(../blocks/section-clients/__list/section-clients__list.css);
+@import url(../blocks/section-clients/__item/section-clients__item.css);
+@import url(../blocks/section-clients/__testimonial/section-clients__testimonial.css);
+@import url(../blocks/section-clients/__user/section-clients__user.css);
+@import url(../blocks/section-clients/__avatar/section-clients__avatar.css);
+@import url(../blocks/section-clients/__user-info/section-clients__user-info.css);
+@import url(../blocks/section-clients/__username/section-clients__username.css);
+@import url(../blocks/section-clients/__urer-description/section-clients__urer-description.css);
+
+@import url(../blocks/section-contacts/section-contacts.css);
+@import url(../blocks/section-contacts/__icon/section-contacts__icon.css);
+@import url(../blocks/section-contacts/__list/section-contacts__list.css);
+@import url(../blocks/section-contacts/__item/section-contacts__item.css);
+@import url(../blocks/section-contacts/__heading/section-contacts__heading.css);
+@import url(../blocks/section-contacts/__info/section-contacts__info.css);
+@import url(../blocks/section-contacts/__link/section-contacts__link.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__left/footer__left.css);
+@import url(../blocks/footer/__logo/footer__logo.css);
+@import url(../blocks/footer/__logo-img/footer__logo-img.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__right/footer__right.css);
+@import url(../blocks/footer/__nav/footer__nav.css);
+@import url(../blocks/footer/__nav-list/footer__nav-list.css);
+@import url(../blocks/footer/__nav-item/footer__nav-item.css);
+@import url(../blocks/footer/__nav-link/footer__nav-link.css);
+@import url(../blocks/footer/__social-list/footer__social-list.css);
+@import url(../blocks/footer/__social-item/footer__social-item.css);
+@import url(../blocks/footer/__social-link/footer__social-link.css);
+@import url(../blocks/footer/__social-icon/footer__social-icon.css);
